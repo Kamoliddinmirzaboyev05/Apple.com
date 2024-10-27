@@ -280,7 +280,9 @@ nav .container{
 }
 
 /* Styling section4 */
-
+.section4 .container{
+    padding-bottom: 30px;
+}
 .sct4-block{
     padding-top: 30px;
     display: flex;
@@ -311,6 +313,16 @@ nav .container{
 }
 .card-cash{
     text-align: center;
+}
+
+/* Styling section5 */
+.section5{
+    height: 100vh;
+    padding-top: 30px;
+    background-image: url('img/Section.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 
